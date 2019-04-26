@@ -1,7 +1,7 @@
   Episode #     Prod #      Air Date   Titles
 _____ ______ ___________  ___________ ___________________________________________
 
-Season 12
+Season 123
 
 1.     1-1                 17 Dec 89   Simpsons Roasting on an Open Fire
 2.     1-2                 14 Jan 90   Bart the Genius
