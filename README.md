@@ -1,3 +1,3 @@
 # simpsons
 
-Proyecto de ejemplo para practicar con Git y Github
+Proyecto de ejemplo para practicar con Git y Github2
